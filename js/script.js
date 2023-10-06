@@ -63,4 +63,4 @@ statusButton.addEventListener(
   function () {
     showPets(allPets);
   }
-);
+); 
